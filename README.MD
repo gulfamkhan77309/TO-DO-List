@@ -15,7 +15,7 @@ This project allows users to add, delete, and manage daily tasks easily.
 - ✅ Mark tasks as completed
 - ❌ Delete tasks
 - 📱 Responsive design
-- 💾 Data stored in Local Storage (if you used it)
+- 💾 Data stored in Local Storage
 
 ---
 
