@@ -5,8 +5,9 @@ This project allows users to add, delete, and manage daily tasks easily.
 
 ## 🚀 Live Demo
 
-👉 https://gulfamkhan77309.github.io/TO-DO-List/
-    https://to-do-list-ten-tau-32.vercel.app/
+   https://gulfamkhan77309.github.io/TO-DO-List/
+
+   https://to-do-list-ten-tau-32.vercel.app/
 
 ---
 
